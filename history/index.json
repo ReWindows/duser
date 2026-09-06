@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "targets": [
+    {
+      "target": "duser",
+      "file": "duser.dll",
+      "index": "duser/index.json",
+      "latest": "4240265679-84CB1D82FC5C10EC36D3A0C3457E64E8-1",
+      "build_count": 1
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "target": "duser.dll",
+  "latest": "4240265679-84CB1D82FC5C10EC36D3A0C3457E64E8-1",
+  "builds": [
+    {
+      "key": "4240265679-84CB1D82FC5C10EC36D3A0C3457E64E8-1",
+      "timestamp": "4240265679",
+      "pdb_guid": "84CB1D82FC5C10EC36D3A0C3457E64E8",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/4240265679-84CB1D82FC5C10EC36D3A0C3457E64E8-1/ir.json",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ]
+}
