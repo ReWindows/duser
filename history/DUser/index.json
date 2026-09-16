@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "DUser.dll",
+  "latest": "2638932190-181E01F67ED6ADA472C99FA5EE42B487-1",
+  "builds": [
+    {
+      "key": "2638932190-181E01F67ED6ADA472C99FA5EE42B487-1",
+      "timestamp": "2638932190",
+      "pdb_guid": "181E01F67ED6ADA472C99FA5EE42B487",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2638932190-181E01F67ED6ADA472C99FA5EE42B487-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
